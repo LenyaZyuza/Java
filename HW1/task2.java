@@ -1,5 +1,7 @@
 package Homework.HW1;
 
+// Вычислить n! (произведение чисел от 1 до n)
+
 import java.util.Scanner;
 
 public class task2 {
