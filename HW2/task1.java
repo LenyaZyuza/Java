@@ -14,6 +14,7 @@ package Homework.HW2;
 
 // Создать метод, который запишет результат работы в файл. Обработайте исключения и запишите ошибки в лог файл.
 
+// Строка с данными в файле
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
